@@ -5,7 +5,7 @@
 int addition(int a, int b)
 {
 
-    return a+b;
+printf("a+b=%d\n", addition(1,4));
 
 }
 
